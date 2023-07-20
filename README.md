@@ -8,7 +8,7 @@ Bem-vindo(a) ao Jogo da Forca em Python! Este é um jogo simples e divertido des
 
 1 - Clone o repositório para o seu computador ou faça o download dos arquivos.</br>
 2 - Certifique-se de ter o Python instalado em sua máquina.</br>
-3 - Execute o arquivo hangman*v1.py.</br>
+3 - Execute o arquivo hangman_v1.py.</br>
 4 - Será apresentada uma tela de boas-vindas e a palavra oculta representada por "*".</br>
 5 - Você tem um número limitado de tentativas para adivinhar a palavra correta.</br>
 6 - Digite uma letra e pressione Enter para tentar adivinhar.</br>
@@ -21,4 +21,4 @@ Bem-vindo(a) ao Jogo da Forca em Python! Este é um jogo simples e divertido des
 ### Executando o programa
 
 Para executar o programa basta abrir o terminal/cmd e digitar:
-python jogo_da_forca.py
+python hangman_v1.py
